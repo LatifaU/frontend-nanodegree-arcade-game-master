@@ -2,17 +2,17 @@
 
 
 ## Table of Contents
-* What Is Classic Arcade Game
+* What Is Arcade Game
 * Instructions
 * How to play the game
 
 
-## What Is Classic Arcade Game
+## What Is Arcade Game
 Arcade Game require a player to reach to the water in the top while avoiding bugs/enemies. 
 If the player reached the wayer, a score will be inceased.
 If the player reached bugs/enemies, a life will be decreased.
 
-## How to play the game
+## How to Play The Game
 * Download ZIP file from my github repository.
 * Unzip file.
 * Open index.html into browser.
@@ -24,10 +24,10 @@ If the player reached bugs/enemies, a life will be decreased.
 * You will lose when you reach 0 lives
 
 ## Screenshots
-![Start Screenshot](img/start-screenshot.png)
-![Game Screenshot](img/game-screenshot.png)
-![Wining Screenshot](img/winning-screenshot.png)
-![Losing Screenshot](img/losing-screenshot.png)
+![Start Screenshot](images/start-screenshot.png)
+![Game Screenshot](images/game-screenshot.png)
+![Wining Screenshot](images/winning-screenshot.png)
+![Losing Screenshot](images/losing-screenshot.png)
 
 ## Game Resources
 ### Udacity Arcade Game
