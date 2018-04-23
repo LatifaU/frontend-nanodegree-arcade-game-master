@@ -14,11 +14,9 @@ If the player reached bugs/enemies, a life will be decreased.
 
 ## How to Play The Game
 ### GitHub Project Demo
-* Project Demo: [https://latifau.github.io/frontend-nanodegree-arcade-game-master/]
-(https://latifau.github.io/frontend-nanodegree-arcade-game-master/ "GitHub Pages demo")
+* Project Demo: <https://latifau.github.io/frontend-nanodegree-arcade-game-master/>
 ### GitHub Project Repository
-* Download ZIP file from repository: [https://github.com/LatifaU/frontend-nanodegree-arcade-game-master/]
-(https://github.com/LatifaU/frontend-nanodegree-arcade-game-master/ "GitHub project repository")
+* Download ZIP file from repository: <https://github.com/LatifaU/frontend-nanodegree-arcade-game-master/>
 * Unzip file.
 * Open index.html into browser.
 
